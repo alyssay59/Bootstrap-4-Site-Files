@@ -76,21 +76,21 @@ body {
   margin-bottom: 1rem;
 }
 
-.fa-code {
-  color: #e54d26;
+.fa-ban {
+  color: #251111;
 }
 
-.fa-bold {
-  color: #563d7c
+.fa-check-circle {
+  color: #479970
 }
 
-.fa-css3 {
-  color: #2163af;
+.fa-medkit {
+  color: #f32c2c;
 }
 
-.fa-code,
-.fa-bold,
-.fa-css3 {
+.fa-ban,
+.fa-check-circle,
+.fa-medkit{
   font-size: 4em;
   margin: 1 em
 }

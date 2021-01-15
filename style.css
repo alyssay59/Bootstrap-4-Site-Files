@@ -19,6 +19,9 @@ body {
 .nav-link {
   font-size: 1.1em !important;
 }
+.navbar-brand img{
+  height:65px;
+}
 
 .carousel-inner img {
   width: 100%;
@@ -45,13 +48,13 @@ body {
 }
 
 .btn-primary {
-  background-color: #6648b1;
-  border: 1px solid #6648b1;
+  background-color: #ffbfdf;
+  border: 1px solid #ffbfdf;
 }
 
 .btn-primary:hover {
-  background-color: #563d7c;
-  border: 1px solid #563d7c;
+  background-color: #7c3d3d;
+  border: 1px solid #7c3d3d;
 }
 
 .jumbotron {
@@ -70,7 +73,7 @@ body {
 }
 
 .welcome hr {
-  border-top: 2px solid #b4b4b4;
+  border-top: 2px solid #f0c5c5;
   width: 95%;
   margin-top: .3rem;
   margin-bottom: 1rem;
@@ -138,7 +141,7 @@ body {
 }
 
 footer {
-  background-color: #3f3f3f;
+  background-color: #575151;
   color: #d5d5d5;
   padding-top: 2rem;
 }

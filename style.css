@@ -5,12 +5,13 @@ body {
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
-  color: #222;
+  color: rgb(43, 42, 42);
 }
 
 .navbar {
   padding: .8rem;
 }
+
 
 .navbar-nav li {
   padding-right: 20px;
@@ -48,8 +49,8 @@ body {
 }
 
 .btn-primary {
-  background-color: #ffbfdf;
-  border: 1px solid #ffbfdf;
+  background-color: #ee999dc4;
+  border: 1px solid #ee999dc4;
 }
 
 .btn-primary:hover {
@@ -266,7 +267,7 @@ figure {
 }
 
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('img/fodmap.jpg');
   position: fixed;
   display: block;
   top: 0;
